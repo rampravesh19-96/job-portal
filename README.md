@@ -26,6 +26,12 @@ like Indeed or LinkedIn Jobs**.
 
 ------------------------------------------------------------------------
 
+## 🌐 Live Demo
+
+🚀 https://client-job-portal.vercel.app
+
+------------------------------------------------------------------------
+
 # 🧱 Tech Stack
 
 ## Frontend
@@ -59,6 +65,34 @@ like Indeed or LinkedIn Jobs**.
 
 -   Vercel
 -   CI/CD deployment pipeline
+
+------------------------------------------------------------------------
+
+## 📸 Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.PNG)
+
+### Job Listings Page
+![Jobs](screenshots/jobs.PNG)
+
+### Job Details Page
+![Job Details](screenshots/job-details.PNG)
+
+### Apply Job
+![Apply Job](screenshots/apply-job.PNG)
+
+### Applied Jobs Page
+![Applied Jobs](screenshots/applied-jobs.PNG)
+
+### Recruiter Dashboard
+![Dashboard](screenshots/dashboard.PNG)
+
+### Post Job Page
+![Post Job](screenshots/post-job.PNG)
+
+### Manage Applications
+![Applications](screenshots/manage-applications.PNG)
 
 ------------------------------------------------------------------------
 
