@@ -74,13 +74,10 @@ like Indeed or LinkedIn Jobs**.
 ![Homepage](screenshots/homepage.PNG)
 
 ### Job Listings Page
-![Jobs](screenshots/jobs.PNG)
+![Jobs](screenshots/joblist.PNG)
 
 ### Job Details Page
 ![Job Details](screenshots/job-details.PNG)
-
-### Apply Job
-![Apply Job](screenshots/apply-job.PNG)
 
 ### Applied Jobs Page
 ![Applied Jobs](screenshots/applied-jobs.PNG)
@@ -88,11 +85,8 @@ like Indeed or LinkedIn Jobs**.
 ### Recruiter Dashboard
 ![Dashboard](screenshots/dashboard.PNG)
 
-### Post Job Page
-![Post Job](screenshots/post-job.PNG)
-
 ### Manage Applications
-![Applications](screenshots/manage-applications.PNG)
+![Applications](screenshots/manage-jobs.PNG)
 
 ------------------------------------------------------------------------
 
